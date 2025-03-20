@@ -8,7 +8,7 @@
 - 📊 Former Central Council Member and Informatics Secretary at NIT Electrical Engineering Society (2021 - 2022)
 
 ## ℹ️ About Me
-I'm an Electrical Engineering student passionate about Robotics, IoT, and AI. I’ve organized workshops, contributed to R&D projects in AI and robotics, and explored areas like cybersecurity and emerging technologies. I enjoy building innovative solutions and collaborating on tech-driven initiatives.
+I'm an Electrical Engineering (Telecom) student at Babol Noshirvani University of Technology, passionate about Robotics, IoT, and AI. I’ve organized workshops, contributed to R&D projects in AI and robotics, and explored areas like cybersecurity and emerging technologies. Currently, I’m diving into telecommunications, deep learning, and IoT to build innovative solutions.
 
 ## 🛠️ Skills
 - **Programming**: C++, Python, MATLAB
