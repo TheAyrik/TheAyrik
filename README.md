@@ -16,6 +16,9 @@ I'm an Electrical Engineering student passionate about Robotics, IoT, and AI. I�
 - **Design**: InDesign, Photoshop, Figma
 - **Soft Skills**: Public Speaking, Legal Analysis in Tech, Presentations
 
+## 🤞 Current Mood
+- Wishing for good luck on my upcoming projects! 🤞
+
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/theayrik)
 - [Telegram](https://t.me/TheAyrik)
