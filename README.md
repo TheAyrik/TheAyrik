@@ -7,6 +7,9 @@
 - 🖥️ Active Member, Consultant, and Co-founder of Robotics & Mechatronics Society at NIT (2021 - Present)
 - 📊 Former Central Council Member and Informatics Secretary at NIT Electrical Engineering Society (2021 - 2022)
 
+## ℹ️ About Me
+I'm an Electrical Engineering student passionate about Robotics, IoT, and AI. I’ve organized workshops, contributed to R&D projects in AI and robotics, and explored areas like cybersecurity and emerging technologies. I enjoy building innovative solutions and collaborating on tech-driven initiatives.
+
 ## 🛠️ Skills
 - **Programming**: C++, Python, MATLAB
 - **AI**: Diving deep into Deep Learning
