@@ -13,8 +13,8 @@ I’ve organized workshops, contributed to R&D projects in AI and robotics, and 
 * **🤖 Deputy of RoboNIT Secretariat** (Robotics & AI Event) (Oct 2023 - Present)
 * **🚀 Co-founder & Tech Lead** at Higgsland (Online Sales Platform) (2019 - Present)
 * **🖥️ Active Member, Consultant, and Founder** of Robotics & Mechatronics Society at NIT (2021 - Present)
-* **📊 Former Central Council Member and Informatics Secretary at NIT Electrical Engineering Society (2021 - 2022)
-* **🎓 Electrical Engineering (Telecom) Student at Babol Noshirvani University of Technology
+* **📊 Former Central Council Member and Informatics Secretary** at NIT Electrical Engineering Society (2021 - 2022)
+* **🎓 Electrical Engineering (Telecom)** Student at Babol Noshirvani University of Technology
 
 ---
 
